@@ -13,9 +13,7 @@ body {
 
 
 h1 {
-    font-family: 'Helvetica';
-    /*  font-weight: 600;*/
-    text-transform: uppercase;
+    font-family: 'Libre Baskerville', 'Helvetica', sans-serif;
 }
 
 p, ul {
@@ -23,7 +21,7 @@ p, ul {
 }
 
 ul {
-    list-style: georgian;
+    /*list-style: georgian;*/
 }
 
 .sub {
@@ -52,11 +50,10 @@ ul {
     color: #555151;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.2em;
-    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, .8);
 }
-
 
 .divider {
     height: 1px;
@@ -64,6 +61,10 @@ ul {
     background-color: #BCB5B5;
     margin: 20px 0;
 }
+
+/*.vert-divider {
+    height:
+}*/
 
 .profile {
     width: 270px;
