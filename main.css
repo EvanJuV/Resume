@@ -30,6 +30,14 @@ h1 {
     font-size: 1.2em;
 }
 
+p, ul {
+    font-style: italic;
+}
+
+ul {
+    list-style: georgian;
+}
+
 .divider {
     height: 1px;
     width: 100%;
