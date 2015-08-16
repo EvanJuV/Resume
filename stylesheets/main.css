@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    font-size: 14px;
 }
 
 body {
@@ -55,9 +56,11 @@ ul {
 }
 
 .divider {
-    height: 1px;
+    height: 0;
     width: 100%;
-    background-color: #BCB5B5;
+    border-width: 1px 0 0;
+    border-style: solid none;
+    border-color: #BCB5B5;
     margin: 20px 0;
 }
 

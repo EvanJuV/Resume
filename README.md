@@ -1,4 +1,4 @@
-My Resume / Curriculum
+# My Resume / Curriculum
 
 This is my resume! I know it's a little basic but I wanted to have something easier to show to employers.
 
