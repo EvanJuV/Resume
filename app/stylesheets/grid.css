@@ -67,9 +67,9 @@
 }
 
 @media all and (max-width:650px){
-    .col-1{ width: 50%;     }
-    .col-2{ width: 100%;    }
-    .col-3{ width: 100%;    }
+    .col-1{ width: 33%;     }
+    .col-2{ width: 33%;    }
+    .col-3{ width: 50%;    }
     .col-4{ width: 100%;    }
     .col-5{ width: 100%;    }
     .col-6{ width: 100%;    }
